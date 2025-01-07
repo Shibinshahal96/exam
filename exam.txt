@@ -1,0 +1,13 @@
+a) * tuples is a immutable
+   * list is a mutable
+
+c) exception handling is a identify the error and solving 
+
+
+e) *supervised leaning is structured
+   *data train and predict
+
+  * unsupervised leaning is not a structured 
+
+
+

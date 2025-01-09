@@ -3,6 +3,8 @@ a) * tuples is a immutable
 
 c) exception handling is a identify the error and solving 
 
+d)
+
 
 e) *supervised leaning is structured
    *data train and predict

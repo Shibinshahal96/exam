@@ -1,0 +1,73 @@
+a) * tuples is a immutable
+   * it is value fix no change
+   * it is value change method convert list and change the value then convert tuple 
+
+   * list is a mutable
+   * it is every time change the values
+    
+
+c) *exception handling is a identify the which type of error and proper solving
+
+  eg:-
+	  try:
+            num = int(input("Enter a number: "))
+            if num > 0:
+               if num%2 == 0:
+                   print("this number even number")
+                
+               else:
+                   print("this number is odd")
+            
+          except ValueError :
+             print("enter the correct input")
+
+d) local variable
+   * local variable are define the function
+   * it is variable are working only function inside
+  
+   eg:- 
+      def sum():
+          x=10
+          y=20
+          print(x + y)
+
+sum()
+ 
+global variable
+* global variable are define the function outside
+* it is variable define the program top
+
+eg:-
+   
+   s =20
+   t =30
+   print(s + t)
+
+
+
+
+
+e,f) SUPERVISED
+   *supervised leaning is a structured machine language
+   *it is data predict data set standard output
+   * it is data predict depends in Features
+   
+
+  UNSUPERVISED
+  * unsupervised leaning is not a structured machine language
+  * it is data predict depends in data set
+  * it is predict time data set unwanted rows and column affect in output 
+  * it is data set check needed rows and column
+
+ 
+g)  * data select and uploas
+    * write the program 
+    * data chek the errors and solveing
+    * needed the algorithms import the library
+    * training the data
+    * predict
+
+h) * svm , logisregrssion , randomforestclassifier, decisiontreeclassifier, naive bayes ,svc ,k mean
+
+
+
